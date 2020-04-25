@@ -133,7 +133,7 @@ export default class App extends React.Component {
         </TouchableOpacity>
 
         <TouchableOpacity onPress={this.selectVideoTapped.bind(this)}>
-          <View style={[styles.avatar, styles.avatarContainer]}>
+          <View style={[styles.avatar, styles.avatarContainer, {marginBottom: 20}]}>
             <Text>Select a Video</Text>
           </View>
         </TouchableOpacity>
