@@ -5511,6 +5511,11 @@ react-native-tesseract-ocr@^1.0.10:
   resolved "https://registry.yarnpkg.com/react-native-tesseract-ocr/-/react-native-tesseract-ocr-1.0.10.tgz#f11170bd7d1708495687c842b934eb3e412a0fe6"
   integrity sha512-EaNaWE+cQNQFAv9deovib538aB4Fi2gmjiNN8A47BEDj74NNN+r98J5cQhIZESjy1xtxevpg0OW2naFcEkf7qw==
 
+react-native-tts@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-tts/-/react-native-tts-3.1.1.tgz#b3eb4133432c70beb6dfb33685737c8cab441e02"
+  integrity sha512-EGwapFt1CMBopawc8WvpHRv/oXZnOQPuS5ZHrKp0zpz7Kosb6aN1cyj6YSUX2LzcqP6glhrvCPS+PPkW2yMbRQ==
+
 react-native@0.62.2:
   version "0.62.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.62.2.tgz#d831e11a3178705449142df19a70ac2ca16bad10"

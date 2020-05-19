@@ -1,0 +1,2540 @@
+[
+    {
+        "id": "es-us-x-sfb-local",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-us-x-sfb-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-gba-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-gba-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-vlf#male_1-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-vlf#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-jp-x-htm-network",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-jp-x-htm-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "cy",
+        "language": "cy",
+        "latency": 400,
+        "name": "cy",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "hr",
+        "language": "hr",
+        "latency": 400,
+        "name": "hr",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "en-gb-x-gbb-network",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-gbb-network",
+        "networkConnectionRequired": true,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "en-AU-language",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-AU-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "bs",
+        "language": "bs",
+        "latency": 400,
+        "name": "bs",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "th-th-x-mol#female_2-local",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-th-x-mol#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "uk-UA-language",
+        "language": "uk-UA",
+        "latency": 200,
+        "name": "uk-UA-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "th-th-x-mol#male_1-local",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-th-x-mol#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-fis#female_1-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-fis#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "sv-se-x-lfs-local",
+        "language": "sv-SE",
+        "latency": 200,
+        "name": "sv-se-x-lfs-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-es-x-ana#female_2-local",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-es-x-ana#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pl-pl-x-oda#female_1-local",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-pl-x-oda#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-ca-x-cab-local",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-ca-x-cab-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "id-id-x-dfz#female_3-local",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-id-x-dfz#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-gba-network",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-gba-network",
+        "networkConnectionRequired": true,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "es-us-x-sfb#female_2-local",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-us-x-sfb#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hi-in-x-cfn#male_3-local",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-in-x-cfn#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pl-pl-x-oda-network",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-pl-x-oda-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-es-x-ana-network",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-es-x-ana-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "bn-BD-language",
+        "language": "bn-BD",
+        "latency": 200,
+        "name": "bn-BD-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "de-de-x-nfh#male_3-local",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-de-x-nfh#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ru-ru-x-dfc#female_3-local",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-ru-x-dfc#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "it-it-x-kda-local",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-it-x-kda-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ko-kr-x-ism#female_3-local",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-kr-x-ism#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-us-x-sfg#male_1-local",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-us-x-sfg#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "zh-TW-language",
+        "language": "zh-TW",
+        "latency": 200,
+        "name": "zh-TW-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-aua-network",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-aua-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "cmn-cn-x-ssa-local",
+        "language": "zh-CN",
+        "latency": 200,
+        "name": "cmn-cn-x-ssa-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "si-lk-x-sin-network",
+        "language": "si-LK",
+        "latency": 200,
+        "name": "si-lk-x-sin-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-cxx-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-cxx-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ru-ru-x-dfc#male_1-local",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-ru-x-dfc#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-aub-network",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-aub-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-ca-x-caa-network",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-ca-x-caa-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "sk",
+        "language": "sk",
+        "latency": 400,
+        "name": "sk",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "it-it-x-kda#female_2-local",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-it-x-kda#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-cxx#female_1-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-cxx#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ko-kr-x-ism#male_2-local",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-kr-x-ism#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "vi-vn-x-gft-local",
+        "language": "vi-VN",
+        "latency": 200,
+        "name": "vi-vn-x-gft-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "id-id-x-dfz-network",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-id-x-dfz-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-cxx#male_3-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-cxx#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-afh-network",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-afh-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-vlf#female_2-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-vlf#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "de-de-x-nfh#female_1-local",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-de-x-nfh#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-es-x-ana#male_2-local",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-es-x-ana#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-jp-x-htm#male_2-local",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-jp-x-htm#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-us-x-sfg-network",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-us-x-sfg-network",
+        "networkConnectionRequired": true,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "pl-pl-x-oda-local",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-pl-x-oda-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "tr-TR-language",
+        "language": "tr-TR",
+        "latency": 200,
+        "name": "tr-TR-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-aud-local",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-aud-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "de-de-x-nfh#male_1-local",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-de-x-nfh#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "id-id-x-dfz#male_1-local",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-id-x-dfz#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-us-x-sfg#female_1-local",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-us-x-sfg#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-vlf-network",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-vlf-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-US-language",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-US-language",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "la",
+        "language": "la",
+        "latency": 400,
+        "name": "la",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "da-dk-x-kfm-network",
+        "language": "da-DK",
+        "latency": 200,
+        "name": "da-dk-x-kfm-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-aua-local",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-aua-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-frc-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-frc-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "su-id-x-suf-local",
+        "language": "su-ID",
+        "latency": 200,
+        "name": "su-id-x-suf-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-us-x-sfb-network",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-us-x-sfb-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-cxx-network",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-cxx-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-rjs-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-rjs-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-ahp#male_1-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-ahp#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "et-ee-x-tms-network",
+        "language": "et-EE",
+        "latency": 200,
+        "name": "et-ee-x-tms-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-gbc-network",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-gbc-network",
+        "networkConnectionRequired": true,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "es-us-x-sfb#male_3-local",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-us-x-sfb#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-rjs#female_3-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-rjs#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "pt-br-x-afs#female_1-local",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-br-x-afs#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ku",
+        "language": "ku",
+        "latency": 400,
+        "name": "ku",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "fr-CA-language",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-CA-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-ahp#female_1-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-ahp#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "yue-HK-language",
+        "language": "yue-HK",
+        "latency": 200,
+        "name": "yue-HK-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hi-in-x-cfn#female_3-local",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-in-x-cfn#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pl-pl-x-oda#male_2-local",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-pl-x-oda#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pt-br-x-afs#male_3-local",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-br-x-afs#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "it-IT-language",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-IT-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "jv-id-x-jvf-local",
+        "language": "jv-ID",
+        "latency": 200,
+        "name": "jv-id-x-jvf-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "bn-bd-x-ban-network",
+        "language": "bn-BD",
+        "latency": 200,
+        "name": "bn-bd-x-ban-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-jp-x-htm-local",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-jp-x-htm-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "th-th-x-mol#male_3-local",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-th-x-mol#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ta",
+        "language": "ta",
+        "latency": 400,
+        "name": "ta",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "bn-bd-x-ban-local",
+        "language": "bn-BD",
+        "latency": 200,
+        "name": "bn-bd-x-ban-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "cmn-cn-x-ssa-network",
+        "language": "zh-CN",
+        "latency": 200,
+        "name": "cmn-cn-x-ssa-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-aud-network",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-aud-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "el-GR-language",
+        "language": "el-GR",
+        "latency": 200,
+        "name": "el-GR-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hi-IN-language",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-IN-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-us-x-sfg-local",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-us-x-sfg-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "fil-PH-language",
+        "language": "fil-PH",
+        "latency": 200,
+        "name": "fil-PH-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ru-ru-x-dfc#female_2-local",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-ru-x-dfc#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-cxx#male_2-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-cxx#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-vlf#female_1-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-vlf#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "bn-in-x-bin-network",
+        "language": "bn-IN",
+        "latency": 200,
+        "name": "bn-in-x-bin-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "bn-IN-language",
+        "language": "bn-IN",
+        "latency": 200,
+        "name": "bn-IN-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fi-FI-language",
+        "language": "fi-FI",
+        "latency": 200,
+        "name": "fi-FI-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "cmn-tw-x-sxx-local",
+        "language": "zh-TW",
+        "latency": 200,
+        "name": "cmn-tw-x-sxx-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "da-dk-x-kfm-local",
+        "language": "da-DK",
+        "latency": 200,
+        "name": "da-dk-x-kfm-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ro-ro-x-vfv-network",
+        "language": "ro-RO",
+        "latency": 200,
+        "name": "ro-ro-x-vfv-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-us-x-sfb#female_3-local",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-us-x-sfb#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-ca-x-cab-network",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-ca-x-cab-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hu-HU-language",
+        "language": "hu-HU",
+        "latency": 200,
+        "name": "hu-HU-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-FR-language",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-FR-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-es-x-ana#male_3-local",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-es-x-ana#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-rjs#male_1-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-rjs#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "en-us-x-sfg#male_3-local",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-us-x-sfg#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "nb-NO-language",
+        "language": "nb-NO",
+        "latency": 200,
+        "name": "nb-NO-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "da-DK-language",
+        "language": "da-DK",
+        "latency": 200,
+        "name": "da-DK-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-ca-x-caa-local",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-ca-x-caa-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hu-hu-x-kfl-local",
+        "language": "hu-HU",
+        "latency": 200,
+        "name": "hu-hu-x-kfl-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-ca-x-cad-local",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-ca-x-cad-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "vi-VN-language",
+        "language": "vi-VN",
+        "latency": 200,
+        "name": "vi-VN-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "si-lk-x-sin-local",
+        "language": "si-LK",
+        "latency": 200,
+        "name": "si-lk-x-sin-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "sk-sk-x-sfk-local",
+        "language": "sk-SK",
+        "latency": 200,
+        "name": "sk-sk-x-sfk-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "th-th-x-mol-local",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-th-x-mol-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "nl-nl-x-tfb-network",
+        "language": "nl-NL",
+        "latency": 200,
+        "name": "nl-nl-x-tfb-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "km-KH-language",
+        "language": "km-KH",
+        "latency": 200,
+        "name": "km-KH-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "nb-no-x-rfj-local",
+        "language": "nb-NO",
+        "latency": 200,
+        "name": "nb-no-x-rfj-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-ca-x-cac-network",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-ca-x-cac-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pt-br-x-afs#female_2-local",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-br-x-afs#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hu-hu-x-kfl-network",
+        "language": "hu-HU",
+        "latency": 200,
+        "name": "hu-hu-x-kfl-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "de-de-x-nfh#female_3-local",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-de-x-nfh#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-jp-x-htm#female_3-local",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-jp-x-htm#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-gbd-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-gbd-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "ru-ru-x-dfc-local",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-ru-x-dfc-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fil-ph-x-cfc-network",
+        "language": "fil-PH",
+        "latency": 200,
+        "name": "fil-ph-x-cfc-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-frc-network",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-frc-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "id-ID-language",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-ID-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "cs-cz-x-jfs-network",
+        "language": "cs-CZ",
+        "latency": 200,
+        "name": "cs-cz-x-jfs-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-ahp-network",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-ahp-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-vlf#male_2-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-vlf#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ro-RO-language",
+        "language": "ro-RO",
+        "latency": 200,
+        "name": "ro-RO-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-gbd-network",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-gbd-network",
+        "networkConnectionRequired": true,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "uk-ua-x-hfd-local",
+        "language": "uk-UA",
+        "latency": 200,
+        "name": "uk-ua-x-hfd-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-ahp#male_3-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-ahp#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-es-x-ana#female_1-local",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-es-x-ana#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "it-it-x-kda#male_3-local",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-it-x-kda#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pl-PL-language",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-PL-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "cs-cz-x-jfs-local",
+        "language": "cs-CZ",
+        "latency": 200,
+        "name": "cs-cz-x-jfs-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "et-ee-x-tms-local",
+        "language": "et-EE",
+        "latency": 200,
+        "name": "et-ee-x-tms-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-auc-network",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-auc-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-auc-local",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-auc-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ne-np-x-nep-local",
+        "language": "ne-NP",
+        "latency": 200,
+        "name": "ne-np-x-nep-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pt-br-x-afs#male_1-local",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-br-x-afs#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fil-ph-x-cfc-local",
+        "language": "fil-PH",
+        "latency": 200,
+        "name": "fil-ph-x-cfc-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hi-in-x-cfn#female_1-local",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-in-x-cfn#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ko-kr-x-ism#female_2-local",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-kr-x-ism#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "tr-tr-x-mfm-local",
+        "language": "tr-TR",
+        "latency": 200,
+        "name": "tr-tr-x-mfm-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-us-x-sfb#male_1-local",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-us-x-sfb#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-cxx#female_2-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-cxx#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-fis#male_2-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-fis#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "ne-np-x-nep-network",
+        "language": "ne-NP",
+        "latency": 200,
+        "name": "ne-np-x-nep-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "sr",
+        "language": "sr",
+        "latency": 400,
+        "name": "sr",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "ko-kr-x-ism#male_1-local",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-kr-x-ism#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ne-NP-language",
+        "language": "ne-NP",
+        "latency": 200,
+        "name": "ne-NP-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-es-x-ana-local",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-es-x-ana-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pl-pl-x-oda#male_1-local",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-pl-x-oda#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-us-x-sfg#female_2-local",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-us-x-sfg#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "fi-fi-x-afi-local",
+        "language": "fi-FI",
+        "latency": 200,
+        "name": "fi-fi-x-afi-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "id-id-x-dfz#male_2-local",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-id-x-dfz#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "km-kh-x-khm-network",
+        "language": "km-KH",
+        "latency": 200,
+        "name": "km-kh-x-khm-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "si-LK-language",
+        "language": "si-LK",
+        "latency": 200,
+        "name": "si-LK-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "de-de-x-nfh#female_2-local",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-de-x-nfh#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "it-it-x-kda#female_1-local",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-it-x-kda#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "sk-sk-x-sfk-network",
+        "language": "sk-SK",
+        "latency": 200,
+        "name": "sk-sk-x-sfk-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-rjs#female_1-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-rjs#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "de-de-x-nfh#male_2-local",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-de-x-nfh#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-es-x-ana#male_1-local",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-es-x-ana#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fi-fi-x-afi-network",
+        "language": "fi-FI",
+        "latency": 200,
+        "name": "fi-fi-x-afi-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-jp-x-htm#male_1-local",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-jp-x-htm#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "sq",
+        "language": "sq",
+        "latency": 400,
+        "name": "sq",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "fr-fr-x-vlf#female_3-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-vlf#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "bn-in-x-bin-local",
+        "language": "bn-IN",
+        "latency": 200,
+        "name": "bn-in-x-bin-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "sk-SK-language",
+        "language": "sk-SK",
+        "latency": 200,
+        "name": "sk-SK-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "uk-ua-x-hfd-network",
+        "language": "uk-UA",
+        "latency": 200,
+        "name": "uk-ua-x-hfd-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "yue-hk-x-jar-network",
+        "language": "yue-HK",
+        "latency": 200,
+        "name": "yue-hk-x-jar-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-fis#male_3-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-fis#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "vi-vn-x-gft-network",
+        "language": "vi-VN",
+        "latency": 200,
+        "name": "vi-vn-x-gft-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-us-x-sfb#male_2-local",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-us-x-sfb#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-frb-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-frb-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-frb-network",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-frb-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pt-br-x-afs#male_2-local",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-br-x-afs#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-aub-local",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-aub-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "nl-nl-x-tfb-local",
+        "language": "nl-NL",
+        "latency": 200,
+        "name": "nl-nl-x-tfb-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "el-gr-x-vfz-local",
+        "language": "el-GR",
+        "latency": 200,
+        "name": "el-gr-x-vfz-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hi-in-x-cfn#female_2-local",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-in-x-cfn#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-cxx#female_3-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-cxx#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-ahp-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-ahp-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-ahp#female_2-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-ahp#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-rjs#male_3-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-rjs#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-fis-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-fis-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-gbb-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-gbb-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-fis#female_2-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-fis#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "id-id-x-dfz-local",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-id-x-dfz-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-au-x-afh-local",
+        "language": "en-AU",
+        "latency": 200,
+        "name": "en-au-x-afh-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ko-kr-x-ism-local",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-kr-x-ism-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-jp-x-htm#female_1-local",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-jp-x-htm#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ru-ru-x-dfc-network",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-ru-x-dfc-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pl-pl-x-oda#female_2-local",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-pl-x-oda#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-ca-x-cad-network",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-ca-x-cad-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "el-gr-x-vfz-network",
+        "language": "el-GR",
+        "latency": 200,
+        "name": "el-gr-x-vfz-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-es-x-ana#female_3-local",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-es-x-ana#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "it-it-x-kda#male_1-local",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-it-x-kda#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "nb-no-x-rfj-network",
+        "language": "nb-NO",
+        "latency": 200,
+        "name": "nb-no-x-rfj-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-us-x-sfb#female_1-local",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-us-x-sfb#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ru-ru-x-dfc#male_2-local",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-ru-x-dfc#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "de-DE-language",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-DE-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-frd-network",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-frd-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-IN-language",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-IN-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "de-de-x-nfh-local",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-de-x-nfh-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hi-in-x-cfn#male_2-local",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-in-x-cfn#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hi-in-x-cfn-network",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-in-x-cfn-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-rjs-network",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-rjs-network",
+        "networkConnectionRequired": true,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "th-th-x-mol#female_1-local",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-th-x-mol#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-fra-network",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-fra-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-JP-language",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-JP-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "sv-se-x-lfs-network",
+        "language": "sv-SE",
+        "latency": 200,
+        "name": "sv-se-x-lfs-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-ES-language",
+        "language": "es-ES",
+        "latency": 200,
+        "name": "es-ES-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "id-id-x-dfz#female_2-local",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-id-x-dfz#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-us-x-sfg#male_2-local",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-us-x-sfg#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "it-it-x-kda#female_3-local",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-it-x-kda#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pl-pl-x-oda#female_3-local",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-pl-x-oda#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-vlf#male_3-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-vlf#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ko-kr-x-ism#male_3-local",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-kr-x-ism#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-gbc-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-gbc-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "ko-kr-x-ism#female_1-local",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-kr-x-ism#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "sw",
+        "language": "sw",
+        "latency": 400,
+        "name": "sw",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "yue-hk-x-jar-local",
+        "language": "yue-HK",
+        "latency": 200,
+        "name": "yue-hk-x-jar-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-jp-x-htm#male_3-local",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-jp-x-htm#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ja-jp-x-htm#female_2-local",
+        "language": "ja-JP",
+        "latency": 200,
+        "name": "ja-jp-x-htm#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "su-id-x-suf-network",
+        "language": "su-ID",
+        "latency": 200,
+        "name": "su-id-x-suf-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "km-kh-x-khm-local",
+        "language": "km-KH",
+        "latency": 200,
+        "name": "km-kh-x-khm-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ca",
+        "language": "ca",
+        "latency": 400,
+        "name": "ca",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 100
+    },
+    {
+        "id": "it-it-x-kda#male_2-local",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-it-x-kda#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-vlf-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-vlf-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ru-ru-x-dfc#male_3-local",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-ru-x-dfc#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "hi-in-x-cfn#male_1-local",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-in-x-cfn#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-ahp#male_2-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-ahp#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-rjs#female_2-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-rjs#female_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "de-de-x-nfh-network",
+        "language": "de-DE",
+        "latency": 200,
+        "name": "de-de-x-nfh-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ko-kr-x-ism-network",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-kr-x-ism-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "su-ID-language",
+        "language": "su-ID",
+        "latency": 200,
+        "name": "su-ID-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "th-TH-language",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-TH-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "zh-CN-language",
+        "language": "zh-CN",
+        "latency": 200,
+        "name": "zh-CN-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ru-RU-language",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-RU-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "cs-CZ-language",
+        "language": "cs-CZ",
+        "latency": 200,
+        "name": "cs-CZ-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "id-id-x-dfz#female_1-local",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-id-x-dfz#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-fis-network",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-fis-network",
+        "networkConnectionRequired": true,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-fis#male_1-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-fis#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-frd-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-frd-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "jv-ID-language",
+        "language": "jv-ID",
+        "latency": 200,
+        "name": "jv-ID-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pl-pl-x-oda#male_3-local",
+        "language": "pl-PL",
+        "latency": 200,
+        "name": "pl-pl-x-oda#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "id-id-x-dfz#male_3-local",
+        "language": "in-ID",
+        "latency": 200,
+        "name": "id-id-x-dfz#male_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pt-br-x-afs-network",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-br-x-afs-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "th-th-x-mol#male_2-local",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-th-x-mol#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "nl-NL-language",
+        "language": "nl-NL",
+        "latency": 200,
+        "name": "nl-NL-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "cmn-tw-x-sxx-network",
+        "language": "zh-TW",
+        "latency": 200,
+        "name": "cmn-tw-x-sxx-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-us-x-sfg#female_3-local",
+        "language": "en-US",
+        "latency": 200,
+        "name": "en-us-x-sfg#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "ru-ru-x-dfc#female_1-local",
+        "language": "ru-RU",
+        "latency": 200,
+        "name": "ru-ru-x-dfc#female_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pt-BR-language",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-BR-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ro-ro-x-vfv-local",
+        "language": "ro-RO",
+        "latency": 200,
+        "name": "ro-ro-x-vfv-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "th-th-x-mol#female_3-local",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-th-x-mol#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "tr-tr-x-mfm-network",
+        "language": "tr-TR",
+        "latency": 200,
+        "name": "tr-tr-x-mfm-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-cxx#male_1-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-cxx#male_1-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "th-th-x-mol-network",
+        "language": "th-TH",
+        "latency": 200,
+        "name": "th-th-x-mol-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "es-US-language",
+        "language": "es-US",
+        "latency": 200,
+        "name": "es-US-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-ca-x-cac-local",
+        "language": "fr-CA",
+        "latency": 200,
+        "name": "fr-ca-x-cac-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-rjs#male_2-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-rjs#male_2-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "sv-SE-language",
+        "language": "sv-SE",
+        "latency": 200,
+        "name": "sv-SE-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-GB-language",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-GB-language",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "it-it-x-kda-network",
+        "language": "it-IT",
+        "latency": 200,
+        "name": "it-it-x-kda-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "fr-fr-x-fra-local",
+        "language": "fr-FR",
+        "latency": 200,
+        "name": "fr-fr-x-fra-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-gb-x-fis#female_3-local",
+        "language": "en-GB",
+        "latency": 200,
+        "name": "en-gb-x-fis#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": false,
+        "quality": 400
+    },
+    {
+        "id": "hi-in-x-cfn-local",
+        "language": "hi-IN",
+        "latency": 200,
+        "name": "hi-in-x-cfn-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "en-in-x-ahp#female_3-local",
+        "language": "en-IN",
+        "latency": 200,
+        "name": "en-in-x-ahp#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "jv-id-x-jvf-network",
+        "language": "jv-ID",
+        "latency": 200,
+        "name": "jv-id-x-jvf-network",
+        "networkConnectionRequired": true,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pt-br-x-afs#female_3-local",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-br-x-afs#female_3-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "et-EE-language",
+        "language": "et-EE",
+        "latency": 200,
+        "name": "et-EE-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "ko-KR-language",
+        "language": "ko-KR",
+        "latency": 200,
+        "name": "ko-KR-language",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    },
+    {
+        "id": "pt-br-x-afs-local",
+        "language": "pt-BR",
+        "latency": 200,
+        "name": "pt-br-x-afs-local",
+        "networkConnectionRequired": false,
+        "notInstalled": true,
+        "quality": 400
+    }
+]
