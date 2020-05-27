@@ -13,15 +13,14 @@ import ImagePicker from 'react-native-image-picker';
 import RNTesseractOcr from 'react-native-tesseract-ocr';
 import Tts from 'react-native-tts';
 
-// Tts.setDefaultLanguage('en-GB')
-// Tts.setDefaultVoice('com.apple.ttsbundle.Daniel-compact')
+Tts.setDefaultLanguage('en-IN')
+Tts.setDefaultVoice('en-in-x-ahp#male_1-local')
 // Tts.voices().then(voices => console.log(voices));
-Tts.setDefaultLanguage('en-IN');
-Tts.setDefaultVoice('en-in-x-ahp#female_1-local');
+// Tts.engines().then(engines => console.log(engines));
+// Tts.requestInstallData();
 export default class App extends React.Component {
   state = {
     avatarSource: null,
-    // videoSource: null,
     ocrResult: null
   };
 
@@ -32,6 +31,76 @@ export default class App extends React.Component {
     this.selectPhotoTapped = this.selectPhotoTapped.bind(this);
     // this.selectVideoTapped = this.selectVideoTapped.bind(this);
     this.recognize = this.recognize.bind(this);
+    this.readText = this.readText.bind(this);
+    this.initTts = this.initTts.bind(this);
+    Tts.getInitStatus().then(this.initTts());
+  }
+
+  initTts = async () => {
+    const voices = await Tts.voices();
+    console.log(voices)
+    const availableVoices = voices
+      .filter(v => !v.networkConnectionRequired && !v.notInstalled)
+      .map(v => {
+        return { id: v.id, name: v.name, language: v.language };
+      });
+
+    console.log(availableVoices)
+    const indianVoices = availableVoices
+      .filter(v => v.language == "en-IN")
+      .map(v => {
+        return { id: v.id, name: v.name, language: v.language };
+      });
+
+    console.log(indianVoices)
+    let selectedVoice = null;
+    if (indianVoices && indianVoices.length > 0) {
+      selectedVoice = indianVoices[0].id;
+      try {
+        await Tts.setDefaultLanguage(indianVoices[0].language);
+
+      } catch (err) {
+        console.log(`set default language error`, err);
+      }
+      await Tts.setDefaultVoice(indianVoices[0].id)
+      this.setState({
+        voices: indianVoices,
+        selectedVoice,
+        ttsStatus: 'initialized',
+      });
+      console.log("Following voice is selected")
+      console.log(selectedVoice)
+
+    }
+    else if (availableVoices && availableVoices.length > 0) {
+      selectedVoice = availableVoices[0].id;
+      try {
+        await Tts.setDefaultLanguage(availableVoices[0].language);
+      } catch (err) {
+        //Samsung S9 has always this error: "Language is not supported"
+        console.log(`setDefaultLanguage error `, err);
+      }
+      await Tts.setDefaultVoice(availableVoices[0].id);
+      this.setState({
+        voices: availableVoices,
+        selectedVoice,
+        ttsStatus: 'initialized',
+      });
+    } else {
+      this.setState({ ttsStatus: 'failed' });
+      console.log("no offline voice available.")
+    }
+  };
+  readText = async () => {
+    await Tts.stop();
+    Tts.speak(this.state.ocrResult, {
+      androidParams: {
+        KEY_PARAM_PAN: -1,
+        KEY_PARAM_VOLUME: 0.5,
+        KEY_PARAM_STREAM: 'STREAM_MUSIC',
+      }
+    })
+    console.log("inside readtext")
   }
 
   selectPhotoTapped() {
@@ -73,31 +142,6 @@ export default class App extends React.Component {
     });
   }
 
-  // selectVideoTapped() {
-  //   const options = {
-  //     title: 'Video Picker',
-  //     takePhotoButtonTitle: 'Take Video...',
-  //     mediaType: 'video',
-  //     videoQuality: 'medium',
-  //   };
-
-  //   ImagePicker.showImagePicker(options, response => {
-  //     console.log('Response = ', response);
-
-  //     if (response.didCancel) {
-  //       console.log('User cancelled video picker');
-  //     } else if (response.error) {
-  //       console.log('ImagePicker Error: ', response.error);
-  //     } else if (response.customButton) {
-  //       console.log('User tapped custom button: ', response.customButton);
-  //     } else {
-  //       this.setState({
-  //         videoSource: response.uri,
-  //       });
-  //     }
-  //   });
-  // }
-
   recognize() {
 
     if (this.state.avatarSource === null) {
@@ -106,10 +150,11 @@ export default class App extends React.Component {
     } else {
       console.log(this.state.avatarSource.path);
       const tessOptions = {
-        whitelist: null,
-        blacklist: '\'!"#$%&()={}[]+*_:;<>'
+        whitelist: 'qwertyuiopasdfghjklzxcvbnm1234567890',
+        blacklist: '\'!"#$%&()={}[]+*_:;<>@\.\\'
         // blacklist:null
       };
+
 
       const imgPath = this.state.avatarSource.path
       // const imgPath = '/storage/emulated/0/Download/menu_cropped.png'
@@ -119,13 +164,9 @@ export default class App extends React.Component {
         .then((result) => {
           this.setState({ ocrResult: result });
           console.log("OCR Result: ", result);
-          Tts.speak(result, {
-            androidParams: {
-              KEY_PARAM_PAN: -1,
-              KEY_PARAM_VOLUME: 0.5,
-              KEY_PARAM_STREAM: 'STREAM_MUSIC',
-            },
-          })
+          this.readText()
+
+
           // .then(voices => console.log(voices));
         })
         .catch((err) => {
