@@ -13,8 +13,6 @@ import ImagePicker from 'react-native-image-picker';
 import RNTesseractOcr from 'react-native-tesseract-ocr';
 import Tts from 'react-native-tts';
 
-Tts.setDefaultLanguage('en-IN')
-Tts.setDefaultVoice('en-in-x-ahp#male_1-local')
 // Tts.voices().then(voices => console.log(voices));
 // Tts.engines().then(engines => console.log(engines));
 // Tts.requestInstallData();
