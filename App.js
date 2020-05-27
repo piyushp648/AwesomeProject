@@ -25,42 +25,51 @@ export default class App extends React.Component {
 
   constructor(props) {
     super(props);
-
+    console.clear();
     this.selectPhotoTapped = this.selectPhotoTapped.bind(this);
-    // this.selectVideoTapped = this.selectVideoTapped.bind(this);
     this.recognize = this.recognize.bind(this);
     this.readText = this.readText.bind(this);
     this.initTts = this.initTts.bind(this);
     Tts.getInitStatus().then(this.initTts());
   }
 
+
+
   initTts = async () => {
+    Tts.engines().then(engines => console.log(engines));
     const voices = await Tts.voices();
     console.log(voices)
     const availableVoices = voices
       .filter(v => !v.networkConnectionRequired && !v.notInstalled)
       .map(v => {
-        return { id: v.id, name: v.name, language: v.language };
+        return {
+          networkConnectionRequired: v.networkConnectionRequired,
+          notInstalled: v.notInstalled,
+          id: v.id, name: v.name, language: v.language
+        };
       });
 
     console.log(availableVoices)
     const indianVoices = availableVoices
-      .filter(v => v.language == "en-IN")
+      .filter(v => v.language == "en-IN" && !v.id.includes("ahp"))
       .map(v => {
         return { id: v.id, name: v.name, language: v.language };
       });
 
-    console.log(indianVoices)
+    console.log(`indian voices\n`, indianVoices)
+    // console.log(`global voices\n`, voices)
+
     let selectedVoice = null;
     if (indianVoices && indianVoices.length > 0) {
-      selectedVoice = indianVoices[0].id;
+      let idx = 0
+      selectedVoice = indianVoices[idx].id;
       try {
-        await Tts.setDefaultLanguage(indianVoices[0].language);
+        await Tts.setDefaultLanguage(indianVoices[idx].language);
 
       } catch (err) {
         console.log(`set default language error`, err);
       }
-      await Tts.setDefaultVoice(indianVoices[0].id)
+      await Tts.setDefaultVoice(indianVoices[idx].id)
       this.setState({
         voices: indianVoices,
         selectedVoice,
@@ -89,6 +98,7 @@ export default class App extends React.Component {
       console.log("no offline voice available.")
     }
   };
+
   readText = async () => {
     await Tts.stop();
     Tts.speak(this.state.ocrResult, {
